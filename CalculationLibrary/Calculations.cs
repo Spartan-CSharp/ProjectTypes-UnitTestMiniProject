@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CalculationLibrary
+﻿namespace CalculationLibrary
 {
 	public static class Calculations
 	{
